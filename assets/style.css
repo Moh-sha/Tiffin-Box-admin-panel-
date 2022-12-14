@@ -1,0 +1,61 @@
+body {
+  background-color: bisque;
+}
+h1 {
+  text-align: center;
+  color: black;
+}
+.container {
+  width: 800px;
+  height: 600px;
+  background: white;
+  box-shadow: 10px 10px 20px black;
+  margin: auto;
+}
+.left_div {
+  width: 50%;
+  float: left;
+}
+
+input {
+  width: 80%;
+
+  padding: 8px;
+  box-shadow: 2px 2px black;
+  border: 1px solid green;
+  margin-left: 20px;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+
+span {
+  margin-left: 20px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+#submit {
+  margin-top: 20px;
+  width: 50%;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  font-size: 1.3rem;
+  cursor: pointer;
+  box-shadow: 2px 4px 10px black;
+  border-radius: 10px;
+  text-align: center;
+}
+
+#submit:hover {
+  background-color: tomato;
+  color: aliceblue;
+}
+#center {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+#center {
+  margin-top: 20px;
+}

@@ -1,0 +1,17 @@
+p {
+  color: tomato;
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+.class {
+  text-align: center;
+  border: 2px solid burlywood;
+  width: 90%;
+  padding: 8px;
+}
+a {
+  text-align: center;
+  color: blue;
+}
